@@ -165,7 +165,6 @@ export interface ITerminalConfiguration {
 	scrollback: number;
 	commandsToSkipShell: string[];
 	allowChords: boolean;
-	enableSmartPaste: boolean;
 	allowMnemonics: boolean;
 	cwd: string;
 	confirmOnExit: ConfirmOnExit;
